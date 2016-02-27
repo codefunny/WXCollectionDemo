@@ -2,6 +2,7 @@
 
 ####1、基于Builder Pattern来构建一个UICollectionView
 
+在[Limboy博客](http://limboy.me/ios/2015/02/07/builder-pattern.html)上看到一篇介绍建造者模式的应用，其中有个UICollectionController的例子，但是没有完整的代码，我这里简单的写了一个。
 
 ```
 + (instancetype)wxCollectionController {
